@@ -1,2 +1,9 @@
 Django>=2.0,<3.0
+djangorestframework
+django-cors-headers
+Flask
+Flask-Cors
 psycopg2>=2.7,<3.0
+marshmallow
+markdown2
+requests3
