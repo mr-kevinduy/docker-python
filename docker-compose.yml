@@ -2,7 +2,7 @@ version: '3'
 
 services:
   app:
-    build: kevinduy/python
+    image: kevinduy/python
     tty: true
     restart: always
     volumes:
